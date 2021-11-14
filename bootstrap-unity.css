@@ -1,0 +1,65 @@
+header .leading_platform div.col-6 {
+    margin-top: 120px;
+}
+header .leading_platform button.btn-light:hover {
+    border: 3px solid rgb(72, 155, 223);
+}
+article.what_can img {
+    transition: 0.5s;
+}
+article.what_can img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+article.what_can button.btn-primary:hover {
+    color: black;
+    background-color: #fff;
+    border: 3px solid rgb(72, 155, 223);
+}
+article.featured button.btn-light:hover {
+    color: rgb(72, 155, 223);
+    border: 3px solid rgb(72, 155, 223);
+}
+div.royality_free ion-icon {
+    color: rgb(42, 158, 42);
+    font-size: 20px;
+}
+article.unity_learn button {
+    color: rgb(72, 155, 223);
+}
+article.made_unity {
+    background-color: rgb(72, 155, 223);
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+article.made_unity div.col-3 {
+    border: 3px solid white;
+    border-radius: 5px;
+    margin-top: 70px;
+}
+article.made_unity button.btn-light {
+    color: rgb(72, 155, 223);
+}
+article.solutions .container {
+    background-color: rgb(72, 155, 223);
+    margin-bottom: 50px;
+}
+footer {
+    background-color: black;
+}
+footer li {
+    list-style-type: none;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: rgb(83, 75, 75);
+}
+footer ol li ion-icon {
+    color: rgb(83, 75, 75);
+}
+footer li:not(footer li:first-of-type) {
+    margin-left: 25px;
+}
+#hr {
+    color: white;   
+}

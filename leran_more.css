@@ -1,0 +1,119 @@
+header {
+    background-color: cornflowerblue;
+    padding-bottom: 120px;
+}
+header .navbar {
+    background-color: black;
+}
+header .header_article h5 {
+    margin-top: 120px;
+    margin-bottom: 25px;
+}
+header .header_article h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+article.unleash h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+article.why_unity div.stver {
+    box-shadow: 2px 2px 2px 2px grey;
+}
+article.read_story {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+article.see_possyble {
+    background-color: cornflowerblue;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+article.see_possyble h2 {
+    font-size: 45px;
+    font-weight: bold;
+}
+article.see_possyble div.syun {
+    border: 3px solid white;
+    border-radius: 5px;
+    width: 280px;
+    height: 300px;
+    margin-top: 90px;
+}
+article.unity_reales h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+article.unity_2020 div.p-4{
+    box-shadow: 2px 2px 2px 2px grey;
+    height: 380px;
+}
+article.unity_2020 h2 {
+    font-size: 25px;
+}
+article.unity_2020 p {
+    font-size: 18px;
+    font-weight: 500;
+}
+article.powerful_fast {
+    background-color: rgb(32, 31, 31);
+    padding-bottom: 90px;
+    margin-bottom: 60px;
+}
+article.powerful_fast h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    margin-top: 50px;
+}
+article.powerful_fast p {
+    font-size: 20px;
+}
+article.powerful_fast a {
+    color: rgb(31, 176, 243);
+    text-decoration: none;
+    font-size: 18px;
+}
+article.get_started h2 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 18px;
+}
+article.get_started p {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+article.learn_unity div.nkar {
+    box-shadow: 2px 2px 2px 2px rgb(160, 153, 153);
+}
+.unity_beta {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(21, 197, 21);
+}
+.unity_beta h2 {
+    font-size: 45px;
+    font-weight: 700;
+}
+footer {
+    background-color: black;
+}
+footer li {
+    list-style-type: none;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: rgb(83, 75, 75);
+}
+footer ol li ion-icon {
+    color: rgb(83, 75, 75);
+}
+footer li:not(footer li:first-of-type) {
+    margin-left: 25px;
+}
+#hr {
+    color: white;   
+}
